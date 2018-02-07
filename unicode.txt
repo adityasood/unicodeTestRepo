@@ -1,4 +1,0 @@
-This line contains plain text
-Here are some unicode chars ©, ¶, ❄, ☯, æ, ä, ö, ê, à, ü, ö, ß, ó, í, ç, á,
-And don't you ♥️some emojis and 😺
-
